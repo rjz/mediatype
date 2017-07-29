@@ -12,3 +12,9 @@ Installation
 
 ```ShellSession
 $ go get gopkg.in/rjz/mediatype.v0
+```
+
+Docs
+-----------------------------------------------
+
+[See godoc](https://godoc.org/github.com/rjz/mediatype)
